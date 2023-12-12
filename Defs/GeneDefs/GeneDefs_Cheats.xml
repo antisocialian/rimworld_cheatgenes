@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<GeneDef>
+		<defName>CHT99</defName>
+		<label>Cheat 99</label>
+		<description>Removes 99 complexity, 99 metabolic efficiency, and 99 archite capsules.</description>
+		<iconPath>Genes/Icons/99</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>1</displayOrderInCategory>
+		<biostatCpx>-99</biostatCpx>
+		<biostatMet>99</biostatMet>
+		<biostatArc>-99</biostatArc>
+	</GeneDef>
+	
+	<GeneDef>
+		<defName>CHT99_2</defName>
+		<label>Cheat 99 v2</label>
+		<description>Removes 99 complexity, 99 metabolic efficiency, and 99 archite capsules. Totally not the same as the other one, and definitely not extra cheaty.</description>
+		<iconPath>Genes/Icons/99_2</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<biostatCpx>-99</biostatCpx>
+		<biostatMet>99</biostatMet>
+		<biostatArc>-99</biostatArc>
+	</GeneDef>
+	
+	<GeneDef>
+		<defName>CHT999</defName>
+		<label>Cheat 999</label>
+		<description>Removes 999 complexity, 999 metabolic efficiency, and 999 archite capsules. Totally not even more extra cheaty.</description>
+		<iconPath>Genes/Icons/999</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<biostatCpx>-999</biostatCpx>
+		<biostatMet>999</biostatMet>
+		<biostatArc>-999</biostatArc>
+	</GeneDef>
+	
+	<GeneDef>
+		<defName>Speedster</defName>
+		<label>Speedster</label>
+		<description>You are the fastest pawn alive, probably.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<statOffsets>
+			<MoveSpeed>999999</MoveSpeed>
+			<WorkSpeedGlobal>999999</WorkSpeedGlobal>
+			<GeneralLaborSpeed>999999</GeneralLaborSpeed>
+			<MeleeDodgeChance>999999</MeleeDodgeChance>
+			<AimingDelayFactor>-999999</AimingDelayFactor>
+			<ResearchSpeed>999999</ResearchSpeed>
+			<DoorOpenSpeed>999999</DoorOpenSpeed>
+			<TrapSpringChance>-1</TrapSpringChance>
+			<BiosculpterOccupantSpeed>999999</BiosculpterOccupantSpeed>
+		</statOffsets>
+		<capMods>
+			<li>
+				<capacity>Manipulation</capacity>
+				<offset>999999</offset>
+			</li>
+			<li>
+				<capacity>Moving</capacity>
+				<offset>999999</offset>
+			</li>
+		</capMods>
+	</GeneDef>
+	
+	<GeneDef>
+		<defName>Strongman</defName>
+		<label>Strongman</label>
+		<description>You are the strongest pawn alive, probably.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<statOffsets>
+			<CarryingCapacity>999999</CarryingCapacity>
+			<MeatAmount>999999</MeatAmount>
+			<MeleeDamageFactor>999999</MeleeDamageFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef>
+		<defName>Invulnerable</defName>
+		<label>Invulnerable</label>
+		<description>You are invulnerable to everything, probably.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<statOffsets>
+			<IncomingDamageFactor>-1</IncomingDamageFactor>
+			<PainShockThreshold>999999</PainShockThreshold>
+			<ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
+			<ImmunityGainSpeed>999999</ImmunityGainSpeed>
+			<InjuryHealingFactor>999999</InjuryHealingFactor>
+			<LifespanFactor>999999</LifespanFactor>
+			<HeatNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">999999</HeatNullNaniteResistance>
+			<HeatNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</HeatNullNaniteEnvironmentResistance>
+			<ColdNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">999999</ColdNullNaniteResistance>
+			<ColdNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</ColdNullNaniteEnvironmentResistance>
+			<RadiationResistance MayRequire="blackmarket420.kraltechindustries">999999</RadiationResistance>
+			<RadiationEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</RadiationEnvironmentResistance>
+			<AntiOrgToxinResistance MayRequire="blackmarket420.kraltechindustries">999999</AntiOrgToxinResistance>
+			<AntiOrgToxinEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</AntiOrgToxinEnvironmentResistance>
+			<RageVirusResistance MayRequire="blackmarket420.kraltechindustries">999999</RageVirusResistance>
+			<RageVirusEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</RageVirusEnvironmentResistance>
+		</statOffsets>
+		<hediffGiversCannotGive>
+			<li>Carcinoma</li>
+			<li>HeartAttack</li>
+			<li>BadBack</li>
+			<li>Frail</li>
+			<li>Cataract</li>
+			<li>Dementia</li>
+			<li>Alzheimers</li>
+			<li>Asthma</li>
+			<li>HeartArteryBlockage</li>
+			<li>SensoryMechanites</li>
+			<li>WoundInfection</li>
+			<li>MissingBodyPart</li>
+			<li>Misc</li>
+			<li>Burn</li>
+			<li>ChemicalBurn</li>
+			<li>Crush</li>
+			<li>Crack</li>
+			<li>Cut</li>
+			<li>SurgicalCut</li>
+			<li>ExecutionCut</li>
+			<li>Scratch</li>
+			<li>Bite</li>
+			<li>Stab</li>
+			<li>Gunshot</li>
+			<li>Shredded</li>
+			<li>Bruise</li>
+			<li>Frostbite</li>
+			<li>Blindness</li>
+			<li>HearingLoss</li>
+			<li>TraumaSavant</li>
+			<li>ChemicalDamageModerate</li>
+			<li>ChemicalDamageSevere</li>
+			<li>Cirrhosis</li>
+			<li>ResurrectionPsychosis</li>
+			<li>Scaria</li>
+			<li>Sterilized</li>
+			<li>BloodLoss</li>
+			<!-- Can't seem to block these, might need more definitions that they are 
+				<li>ParalyticAbasia</li>
+				<li>Bleeding</li>
+			-->
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Flu</li>
+			<li>Malaria</li>
+			<li>SleepingSickness</li>
+			<li>Plague</li>
+			<li>WoundInfection</li>
+			<li>LungRot</li>
+			<li>GutWorms</li>
+			<li>MuscleParasites</li>
+			<li>FibrousMechanites</li>
+			<li>BloodRot</li>
+			<li>InfantIllness</li>
+		</makeImmuneTo>
+		<statFactors>
+			<InjuryHealingFactor>999999</InjuryHealingFactor>
+			<ImmunityGainSpeed>999999</ImmunityGainSpeed>
+		</statFactors>
+	</GeneDef>
+	
+	
+	<GeneDef>
+		<defName>God</defName>
+		<label>God</label>
+		<description>You are the strongest pawn alive, probably.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<painFactor>0</painFactor>
+		<foodPoisoningChanceFactor>0</foodPoisoningChanceFactor>
+		<addictionChanceFactor>0</addictionChanceFactor>
+		<overdoseChanceFactor>0</overdoseChanceFactor>
+		<toleranceBuildupFactor>0</toleranceBuildupFactor>
+		<socialFightChanceFactor>0</socialFightChanceFactor>
+		<aggroMentalBreakSelectionChanceFactor>0</aggroMentalBreakSelectionChanceFactor>
+		<ignoreDarkness>True</ignoreDarkness>
+		<preventPermanentWounds>True</preventPermanentWounds>
+		<disablesNeeds>
+			<li>Rest</li>
+			<!-- <li>Food</li> -->
+		</disablesNeeds>
+		<statOffsets>
+			<MoveSpeed>999999</MoveSpeed>
+			<WorkSpeedGlobal>999999</WorkSpeedGlobal>
+			<GeneralLaborSpeed>999999</GeneralLaborSpeed>
+			<MeleeDodgeChance>999999</MeleeDodgeChance>
+			<AimingDelayFactor>-999999</AimingDelayFactor>
+			<ResearchSpeed>999999</ResearchSpeed>
+			<DoorOpenSpeed>999999</DoorOpenSpeed>
+			<TrapSpringChance>-1</TrapSpringChance>
+			<BiosculpterOccupantSpeed>999999</BiosculpterOccupantSpeed>
+			
+			<CarryingCapacity>999999</CarryingCapacity>			
+			<MeatAmount>999999</MeatAmount>
+			<MeleeDamageFactor>999999</MeleeDamageFactor>
+			
+			<IncomingDamageFactor>-1</IncomingDamageFactor>
+			<PainShockThreshold>999999</PainShockThreshold>
+			<ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
+			<ImmunityGainSpeed>999999</ImmunityGainSpeed>
+			<InjuryHealingFactor>999999</InjuryHealingFactor>
+			<LifespanFactor>999999</LifespanFactor>
+			<HeatNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">1</HeatNullNaniteResistance>
+			<HeatNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</HeatNullNaniteEnvironmentResistance>
+			<ColdNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">1</ColdNullNaniteResistance>
+			<ColdNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</ColdNullNaniteEnvironmentResistance>
+			<RadiationResistance MayRequire="blackmarket420.kraltechindustries">1</RadiationResistance>
+			<RadiationEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</RadiationEnvironmentResistance>
+			<AntiOrgToxinResistance MayRequire="blackmarket420.kraltechindustries">1</AntiOrgToxinResistance>
+			<AntiOrgToxinEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</AntiOrgToxinEnvironmentResistance>
+			<RageVirusResistance MayRequire="blackmarket420.kraltechindustries">1</RageVirusResistance>
+			<RageVirusEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</RageVirusEnvironmentResistance>
+			
+			<RestFallRateFactor>0</RestFallRateFactor>
+			<ComfyTemperatureMin>-999999</ComfyTemperatureMin>
+			<ComfyTemperatureMax>999999</ComfyTemperatureMax>
+			
+			<PsychicSensitivity>999999</PsychicSensitivity>
+			<MeditationFocusGain>999999</MeditationFocusGain>
+			<PsychicEntropyRecoveryRate>999999</PsychicEntropyRecoveryRate>
+			<PsychicEntropyGain>-999999</PsychicEntropyGain>
+			<VPE_PsyfocusCostFactor MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsyfocusCostFactor>
+			<VPE_PsychicEntropyMinimum MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsychicEntropyMinimum>
+			
+			<SubcoreEncodingSpeed>999</SubcoreEncodingSpeed>
+			<MechBandwidth>99</MechBandwidth>
+			<MechControlGroups>99</MechControlGroups>
+			<WorkSpeedGlobalOffsetMech>999</WorkSpeedGlobalOffsetMech>
+			<MechRemoteRepairDistance>9</MechRemoteRepairDistance>
+			<MechFormingSpeed>999</MechFormingSpeed>
+			<MechRemoteShieldDistance>9</MechRemoteShieldDistance>
+			<MechRemoteShieldEnergy>999</MechRemoteShieldEnergy>
+			<MechRepairSpeed>999</MechRepairSpeed>
+			
+			<HemogenGainFactor>999999</HemogenGainFactor>
+			
+			
+			
+		</statOffsets>
+		<capMods>
+			<li>
+				<capacity>Consciousness</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>Moving</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>Manipulation</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>Talking</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>Eating</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>Sight</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>Hearing</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>Breathing</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>BloodFiltration</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>BloodPumping</capacity>
+				<offset>999</offset>
+			</li>
+			<li>
+				<capacity>Metabolism</capacity>
+				<offset>999</offset>
+			</li>
+		</capMods>
+		<hediffGiversCannotGive>
+			<li>Carcinoma</li>
+			<li>HeartAttack</li>
+			<li>BadBack</li>
+			<li>Frail</li>
+			<li>Cataract</li>
+			<li>Dementia</li>
+			<li>Alzheimers</li>
+			<li>Asthma</li>
+			<li>HeartArteryBlockage</li>
+			<li>SensoryMechanites</li>
+			<li>WoundInfection</li>
+			<li>MissingBodyPart</li>
+			<li>Misc</li>
+			<li>Burn</li>
+			<li>ChemicalBurn</li>
+			<li>Crush</li>
+			<li>Crack</li>
+			<li>Cut</li>
+			<li>SurgicalCut</li>
+			<li>ExecutionCut</li>
+			<li>Scratch</li>
+			<li>Bite</li>
+			<li>Stab</li>
+			<li>Gunshot</li>
+			<li>Shredded</li>
+			<li>Bruise</li>
+			<li>Frostbite</li>
+			<li>Blindness</li>
+			<li>HearingLoss</li>
+			<li>TraumaSavant</li>
+			<li>ChemicalDamageModerate</li>
+			<li>ChemicalDamageSevere</li>
+			<li>Cirrhosis</li>
+			<li>ResurrectionPsychosis</li>
+			<li>Scaria</li>
+			<li>Sterilized</li>
+			<li>BloodLoss</li>
+			<li>DirtInEyes</li>
+			<li>SandInEyes</li>
+			<li>MudInEyes</li>
+			<li>GravelInEyes</li>
+			<li>WaterInEyes</li>
+			<li>Hypothermia</li>
+			<!-- Can't seem to block these, might need more definitions that they are 
+				<li>ParalyticAbasia</li>
+				<li>Bleeding</li>
+			-->
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Flu</li>
+			<li>Malaria</li>
+			<li>SleepingSickness</li>
+			<li>Plague</li>
+			<li>WoundInfection</li>
+			<li>LungRot</li>
+			<li>GutWorms</li>
+			<li>MuscleParasites</li>
+			<li>FibrousMechanites</li>
+			<li>BloodRot</li>
+			<li>InfantIllness</li>
+		</makeImmuneTo>
+		<statFactors>
+			<InjuryHealingFactor>999999</InjuryHealingFactor>
+			<ImmunityGainSpeed>999999</ImmunityGainSpeed>
+		</statFactors>
+	</GeneDef>
+	
+	<GeneDef>
+		<defName>Super_Duper_Psychic</defName>
+		<label>Super-Duper Psychic</label>
+		<description>You have use of all of your mind, and maybe some other minds too.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<statOffsets>
+			<PsychicSensitivity>999999</PsychicSensitivity>
+			<MeditationFocusGain>999999</MeditationFocusGain>
+			<PsychicEntropyRecoveryRate>999999</PsychicEntropyRecoveryRate>
+			<PsychicEntropyGain>-999999</PsychicEntropyGain>
+			<VPE_PsyfocusCostFactor MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsyfocusCostFactor>
+			<VPE_PsychicEntropyMinimum MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsychicEntropyMinimum>
+		</statOffsets>
+		<capMods>
+			<li>
+				<capacity>Consciousness</capacity>
+				<offset>999999</offset>
+			</li>
+		</capMods>
+	</GeneDef>
+	
+	<GeneDef>
+		<defName>Super_Mech</defName>
+		<label>Technomancer</label>
+		<description>You have a knack with robots, they work better for you.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<statOffsets>
+			<SubcoreEncodingSpeed>999</SubcoreEncodingSpeed>
+			<MechBandwidth>99</MechBandwidth>
+			<MechControlGroups>99</MechControlGroups>
+			<WorkSpeedGlobalOffsetMech>999</WorkSpeedGlobalOffsetMech>
+			<MechRemoteRepairDistance>9</MechRemoteRepairDistance>
+			<MechFormingSpeed>999</MechFormingSpeed>
+			<MechRemoteShieldDistance>9</MechRemoteShieldDistance>
+			<MechRemoteShieldEnergy>999</MechRemoteShieldEnergy>
+			<MechRepairSpeed>999</MechRepairSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef>
+		<defName>Super_Vamp</defName>
+		<label>Alpha Sanguophage</label>
+		<description>**WIP** You are one of the first few Sanguophage afflicted. Your abilities are much stronger than the current weakling 'Sanguophages' currently running around. **WIP**</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<prerequisite>Hemogenic</prerequisite>
+		<causesNeed>Deathrest</causesNeed>
+		<statOffsets>
+			<HemogenGainFactor>999999</HemogenGainFactor>
+		</statOffsets>
+	</GeneDef>	
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries">
+		<defName>Super_Kraltech</defName>
+		<label>Kraltech Nanite Resistant</label>
+		<description>**WIP** You are resistant to all the nasty little nanites from this Kraltech Inductries. May also block the rage-y-ness associated with dealing with the company.  **WIP**</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayCategory>Cheats</displayCategory>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<statOffsets>
+			<HeatNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">1</HeatNullNaniteResistance>
+			<HeatNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</HeatNullNaniteEnvironmentResistance>
+			<ColdNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">1</ColdNullNaniteResistance>
+			<ColdNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</ColdNullNaniteEnvironmentResistance>
+			<RadiationResistance MayRequire="blackmarket420.kraltechindustries">1</RadiationResistance>
+			<RadiationEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</RadiationEnvironmentResistance>
+			<AntiOrgToxinResistance MayRequire="blackmarket420.kraltechindustries">1</AntiOrgToxinResistance>
+			<AntiOrgToxinEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</AntiOrgToxinEnvironmentResistance>
+			<RageVirusResistance MayRequire="blackmarket420.kraltechindustries">1</RageVirusResistance>
+			<RageVirusEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</RageVirusEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>	
+</Defs>

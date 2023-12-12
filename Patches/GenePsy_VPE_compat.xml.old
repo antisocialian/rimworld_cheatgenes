@@ -1,0 +1,21 @@
+<!-- <Patch>
+    <Operation Class="PatchOperationSequence" MayRequire="vanillaexpanded.vpsycastse">
+			<operations>
+				<li Class="PatchOperationAdd" MayRequire="vanillaexpanded.vpsycastse">
+					<xpath>Defs/GeneDef[defName="Super_Duper_Psychic"]/statOffsets</xpath>
+					<value>
+						<VPE_PsyfocusCostFactor>-1</VPE_PsyfocusCostFactor>
+						<VPE_PsychicEntropyMinimum>-1</VPE_PsychicEntropyMinimum>
+					</value>
+				</li>
+				<li Class="PatchOperationAdd" MayRequire="vanillaexpanded.vpsycastse">
+					<xpath>Defs/GeneDef[defName="God"]/statOffsets</xpath>
+					<value>
+						<VPE_PsyfocusCostFactor>-1</VPE_PsyfocusCostFactor>
+						<VPE_PsychicEntropyMinimum>-1</VPE_PsychicEntropyMinimum>
+					</value>
+				</li>
+			</operations>
+	</Operation>
+</Patch>
+ -->

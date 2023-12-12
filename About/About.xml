@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	
+	<name>Cheat Genes</name>
+	<author>antisocialian</author>
+	<packageId>antisocialian.xenogenecheats</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>ludeon.rimworld.biotech</packageId>
+			<displayName>Biotech</displayName>
+		</li>
+	</modDependencies>
+	<description>Some cheaty genes to let me make crazy xenogerms.</description>
+	
+</ModMetaData>
