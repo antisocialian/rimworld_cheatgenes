@@ -45,24 +45,24 @@
 		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
-			<MoveSpeed>999999</MoveSpeed>
-			<WorkSpeedGlobal>999999</WorkSpeedGlobal>
-			<GeneralLaborSpeed>999999</GeneralLaborSpeed>
-			<MeleeDodgeChance>999999</MeleeDodgeChance>
-			<AimingDelayFactor>-999999</AimingDelayFactor>
-			<ResearchSpeed>999999</ResearchSpeed>
-			<DoorOpenSpeed>999999</DoorOpenSpeed>
+			<MoveSpeed>999</MoveSpeed>
+			<WorkSpeedGlobal>999</WorkSpeedGlobal>
+			<GeneralLaborSpeed>999</GeneralLaborSpeed>
+			<MeleeDodgeChance>999</MeleeDodgeChance>
+			<AimingDelayFactor>-999</AimingDelayFactor>
+			<ResearchSpeed>999</ResearchSpeed>
+			<DoorOpenSpeed>999</DoorOpenSpeed>
 			<TrapSpringChance>-1</TrapSpringChance>
-			<BiosculpterOccupantSpeed>999999</BiosculpterOccupantSpeed>
+			<BiosculpterOccupantSpeed>999</BiosculpterOccupantSpeed>
 		</statOffsets>
 		<capMods>
 			<li>
 				<capacity>Manipulation</capacity>
-				<offset>999999</offset>
+				<offset>999</offset>
 			</li>
 			<li>
 				<capacity>Moving</capacity>
-				<offset>999999</offset>
+				<offset>999</offset>
 			</li>
 		</capMods>
 	</GeneDef>
@@ -75,9 +75,9 @@
 		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
-			<CarryingCapacity>999999</CarryingCapacity>
-			<MeatAmount>999999</MeatAmount>
-			<MeleeDamageFactor>999999</MeleeDamageFactor>
+			<CarryingCapacity>999</CarryingCapacity>
+			<MeatAmount>999</MeatAmount>
+			<MeleeDamageFactor>999</MeleeDamageFactor>
 		</statOffsets>
 	</GeneDef>
 	
@@ -90,21 +90,21 @@
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
 			<IncomingDamageFactor>-1</IncomingDamageFactor>
-			<PainShockThreshold>999999</PainShockThreshold>
+			<PainShockThreshold>999</PainShockThreshold>
 			<ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
-			<ImmunityGainSpeed>999999</ImmunityGainSpeed>
-			<InjuryHealingFactor>999999</InjuryHealingFactor>
-			<LifespanFactor>999999</LifespanFactor>
-			<HeatNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">999999</HeatNullNaniteResistance>
-			<HeatNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</HeatNullNaniteEnvironmentResistance>
-			<ColdNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">999999</ColdNullNaniteResistance>
-			<ColdNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</ColdNullNaniteEnvironmentResistance>
-			<RadiationResistance MayRequire="blackmarket420.kraltechindustries">999999</RadiationResistance>
-			<RadiationEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</RadiationEnvironmentResistance>
-			<AntiOrgToxinResistance MayRequire="blackmarket420.kraltechindustries">999999</AntiOrgToxinResistance>
-			<AntiOrgToxinEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</AntiOrgToxinEnvironmentResistance>
-			<RageVirusResistance MayRequire="blackmarket420.kraltechindustries">999999</RageVirusResistance>
-			<RageVirusEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999999</RageVirusEnvironmentResistance>
+			<ImmunityGainSpeed>999</ImmunityGainSpeed>
+			<InjuryHealingFactor>999</InjuryHealingFactor>
+			<LifespanFactor>999</LifespanFactor>
+			<HeatNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">999</HeatNullNaniteResistance>
+			<HeatNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</HeatNullNaniteEnvironmentResistance>
+			<ColdNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">999</ColdNullNaniteResistance>
+			<ColdNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</ColdNullNaniteEnvironmentResistance>
+			<RadiationResistance MayRequire="blackmarket420.kraltechindustries">999</RadiationResistance>
+			<RadiationEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</RadiationEnvironmentResistance>
+			<AntiOrgToxinResistance MayRequire="blackmarket420.kraltechindustries">999</AntiOrgToxinResistance>
+			<AntiOrgToxinEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</AntiOrgToxinEnvironmentResistance>
+			<RageVirusResistance MayRequire="blackmarket420.kraltechindustries">999</RageVirusResistance>
+			<RageVirusEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</RageVirusEnvironmentResistance>
 		</statOffsets>
 		<hediffGiversCannotGive>
 			<li>Carcinoma</li>
@@ -163,8 +163,8 @@
 			<li>InfantIllness</li>
 		</makeImmuneTo>
 		<statFactors>
-			<InjuryHealingFactor>999999</InjuryHealingFactor>
-			<ImmunityGainSpeed>999999</ImmunityGainSpeed>
+			<InjuryHealingFactor>999</InjuryHealingFactor>
+			<ImmunityGainSpeed>999</ImmunityGainSpeed>
 		</statFactors>
 	</GeneDef>
 	
@@ -190,26 +190,26 @@
 			<!-- <li>Food</li> -->
 		</disablesNeeds>
 		<statOffsets>
-			<MoveSpeed>999999</MoveSpeed>
-			<WorkSpeedGlobal>999999</WorkSpeedGlobal>
-			<GeneralLaborSpeed>999999</GeneralLaborSpeed>
-			<MeleeDodgeChance>999999</MeleeDodgeChance>
-			<AimingDelayFactor>-999999</AimingDelayFactor>
-			<ResearchSpeed>999999</ResearchSpeed>
-			<DoorOpenSpeed>999999</DoorOpenSpeed>
+			<MoveSpeed>999</MoveSpeed>
+			<WorkSpeedGlobal>999</WorkSpeedGlobal>
+			<GeneralLaborSpeed>999</GeneralLaborSpeed>
+			<MeleeDodgeChance>999</MeleeDodgeChance>
+			<AimingDelayFactor>-999</AimingDelayFactor>
+			<ResearchSpeed>999</ResearchSpeed>
+			<DoorOpenSpeed>999</DoorOpenSpeed>
 			<TrapSpringChance>-1</TrapSpringChance>
-			<BiosculpterOccupantSpeed>999999</BiosculpterOccupantSpeed>
+			<BiosculpterOccupantSpeed>999</BiosculpterOccupantSpeed>
 			
-			<CarryingCapacity>999999</CarryingCapacity>			
-			<MeatAmount>999999</MeatAmount>
-			<MeleeDamageFactor>999999</MeleeDamageFactor>
+			<CarryingCapacity>999</CarryingCapacity>			
+			<MeatAmount>999</MeatAmount>
+			<MeleeDamageFactor>999</MeleeDamageFactor>
 			
 			<IncomingDamageFactor>-1</IncomingDamageFactor>
-			<PainShockThreshold>999999</PainShockThreshold>
+			<PainShockThreshold>999</PainShockThreshold>
 			<ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
-			<ImmunityGainSpeed>999999</ImmunityGainSpeed>
-			<InjuryHealingFactor>999999</InjuryHealingFactor>
-			<LifespanFactor>999999</LifespanFactor>
+			<ImmunityGainSpeed>999</ImmunityGainSpeed>
+			<InjuryHealingFactor>999</InjuryHealingFactor>
+			<LifespanFactor>999</LifespanFactor>
 			<HeatNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">1</HeatNullNaniteResistance>
 			<HeatNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</HeatNullNaniteEnvironmentResistance>
 			<ColdNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">1</ColdNullNaniteResistance>
@@ -222,13 +222,13 @@
 			<RageVirusEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</RageVirusEnvironmentResistance>
 			
 			<RestFallRateFactor>0</RestFallRateFactor>
-			<ComfyTemperatureMin>-999999</ComfyTemperatureMin>
-			<ComfyTemperatureMax>999999</ComfyTemperatureMax>
+			<ComfyTemperatureMin>-999</ComfyTemperatureMin>
+			<ComfyTemperatureMax>999</ComfyTemperatureMax>
 			
-			<PsychicSensitivity>999999</PsychicSensitivity>
-			<MeditationFocusGain>999999</MeditationFocusGain>
-			<PsychicEntropyRecoveryRate>999999</PsychicEntropyRecoveryRate>
-			<PsychicEntropyGain>-999999</PsychicEntropyGain>
+			<PsychicSensitivity>999</PsychicSensitivity>
+			<MeditationFocusGain>999</MeditationFocusGain>
+			<PsychicEntropyRecoveryRate>999</PsychicEntropyRecoveryRate>
+			<PsychicEntropyGain>-999</PsychicEntropyGain>
 			<VPE_PsyfocusCostFactor MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsyfocusCostFactor>
 			<VPE_PsychicEntropyMinimum MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsychicEntropyMinimum>
 			
@@ -242,7 +242,7 @@
 			<MechRemoteShieldEnergy>999</MechRemoteShieldEnergy>
 			<MechRepairSpeed>999</MechRepairSpeed>
 			
-			<HemogenGainFactor>999999</HemogenGainFactor>
+			<HemogenGainFactor>999</HemogenGainFactor>
 			
 			
 			
@@ -356,8 +356,8 @@
 			<li>InfantIllness</li>
 		</makeImmuneTo>
 		<statFactors>
-			<InjuryHealingFactor>999999</InjuryHealingFactor>
-			<ImmunityGainSpeed>999999</ImmunityGainSpeed>
+			<InjuryHealingFactor>999</InjuryHealingFactor>
+			<ImmunityGainSpeed>999</ImmunityGainSpeed>
 		</statFactors>
 	</GeneDef>
 	
@@ -369,17 +369,17 @@
 		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
-			<PsychicSensitivity>999999</PsychicSensitivity>
-			<MeditationFocusGain>999999</MeditationFocusGain>
-			<PsychicEntropyRecoveryRate>999999</PsychicEntropyRecoveryRate>
-			<PsychicEntropyGain>-999999</PsychicEntropyGain>
+			<PsychicSensitivity>999</PsychicSensitivity>
+			<MeditationFocusGain>999</MeditationFocusGain>
+			<PsychicEntropyRecoveryRate>999</PsychicEntropyRecoveryRate>
+			<PsychicEntropyGain>-999</PsychicEntropyGain>
 			<VPE_PsyfocusCostFactor MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsyfocusCostFactor>
 			<VPE_PsychicEntropyMinimum MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsychicEntropyMinimum>
 		</statOffsets>
 		<capMods>
 			<li>
 				<capacity>Consciousness</capacity>
-				<offset>999999</offset>
+				<offset>999</offset>
 			</li>
 		</capMods>
 	</GeneDef>
@@ -414,7 +414,7 @@
 		<prerequisite>Hemogenic</prerequisite>
 		<causesNeed>Deathrest</causesNeed>
 		<statOffsets>
-			<HemogenGainFactor>999999</HemogenGainFactor>
+			<HemogenGainFactor>999</HemogenGainFactor>
 		</statOffsets>
 	</GeneDef>	
 	
