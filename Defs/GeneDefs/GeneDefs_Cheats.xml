@@ -1,48 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
+	<GeneDef Name="GeneCheatBase" Abstract="True">
+		<canGenerateInGeneSet>false</canGenerateInGeneSet>
+		<displayCategory>Cheats</displayCategory>
+		<randomChosen>false</randomChosen>
+	</GeneDef>
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>CHT99</defName>
 		<label>Cheat 99</label>
 		<description>Removes 99 complexity, 99 metabolic efficiency, and 99 archite capsules.</description>
 		<iconPath>Genes/Icons/99</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>1</displayOrderInCategory>
 		<biostatCpx>-99</biostatCpx>
 		<biostatMet>99</biostatMet>
 		<biostatArc>-99</biostatArc>
 	</GeneDef>
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>CHT99_2</defName>
 		<label>Cheat 99 v2</label>
 		<description>Removes 99 complexity, 99 metabolic efficiency, and 99 archite capsules. Totally not the same as the other one, and definitely not extra cheaty.</description>
 		<iconPath>Genes/Icons/99_2</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>-99</biostatCpx>
 		<biostatMet>99</biostatMet>
 		<biostatArc>-99</biostatArc>
 	</GeneDef>
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>CHT999</defName>
 		<label>Cheat 999</label>
 		<description>Removes 999 complexity, 999 metabolic efficiency, and 999 archite capsules. Totally not even more extra cheaty.</description>
 		<iconPath>Genes/Icons/999</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<biostatCpx>-999</biostatCpx>
 		<biostatMet>999</biostatMet>
 		<biostatArc>-999</biostatArc>
 	</GeneDef>
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>Speedster</defName>
 		<label>Speedster</label>
 		<description>You are the fastest pawn alive, probably.</description>
 		<iconPath>Genes/Icons/cheat</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
 			<MoveSpeed>999</MoveSpeed>
@@ -67,12 +68,11 @@
 		</capMods>
 	</GeneDef>
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>Strongman</defName>
 		<label>Strongman</label>
 		<description>You are the strongest pawn alive, probably.</description>
 		<iconPath>Genes/Icons/cheat</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
 			<CarryingCapacity>999</CarryingCapacity>
@@ -81,12 +81,11 @@
 		</statOffsets>
 	</GeneDef>
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>Invulnerable</defName>
 		<label>Invulnerable</label>
 		<description>You are invulnerable to everything, probably.</description>
 		<iconPath>Genes/Icons/cheat</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
 			<IncomingDamageFactor>-1</IncomingDamageFactor>
@@ -169,12 +168,11 @@
 	</GeneDef>
 	
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>God</defName>
 		<label>God</label>
 		<description>You are the strongest pawn alive, probably.</description>
 		<iconPath>Genes/Icons/cheat</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<painFactor>0</painFactor>
 		<foodPoisoningChanceFactor>0</foodPoisoningChanceFactor>
@@ -361,12 +359,11 @@
 		</statFactors>
 	</GeneDef>
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>Super_Duper_Psychic</defName>
 		<label>Super-Duper Psychic</label>
 		<description>You have use of all of your mind, and maybe some other minds too.</description>
 		<iconPath>Genes/Icons/cheat</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
 			<PsychicSensitivity>999</PsychicSensitivity>
@@ -384,12 +381,11 @@
 		</capMods>
 	</GeneDef>
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>Super_Mech</defName>
 		<label>Technomancer</label>
 		<description>You have a knack with robots, they work better for you.</description>
 		<iconPath>Genes/Icons/cheat</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
 			<SubcoreEncodingSpeed>999</SubcoreEncodingSpeed>
@@ -404,26 +400,26 @@
 		</statOffsets>
 	</GeneDef>
 	
-	<GeneDef>
+	<GeneDef ParentName="GeneCheatBase">
 		<defName>Super_Vamp</defName>
 		<label>Alpha Sanguophage</label>
 		<description>**WIP** You are one of the first few Sanguophage afflicted. Your abilities are much stronger than the current weakling 'Sanguophages' currently running around. **WIP**</description>
 		<iconPath>Genes/Icons/cheat</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<prerequisite>Hemogenic</prerequisite>
-		<causesNeed>Deathrest</causesNeed>
+		<enablesNeeds>
+			<li>Deathrest</li>
+		</enablesNeeds>
 		<statOffsets>
 			<HemogenGainFactor>999</HemogenGainFactor>
 		</statOffsets>
 	</GeneDef>	
 	
-	<GeneDef MayRequire="blackmarket420.kraltechindustries">
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="GeneCheatBase">
 		<defName>Super_Kraltech</defName>
 		<label>Kraltech Nanite Resistant</label>
 		<description>**WIP** You are resistant to all the nasty little nanites from this Kraltech Inductries. May also block the rage-y-ness associated with dealing with the company.  **WIP**</description>
 		<iconPath>Genes/Icons/cheat</iconPath>
-		<displayCategory>Cheats</displayCategory>
 		<displayOrderInCategory>2</displayOrderInCategory>
 		<statOffsets>
 			<HeatNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">1</HeatNullNaniteResistance>
