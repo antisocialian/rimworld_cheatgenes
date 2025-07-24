@@ -3,6 +3,9 @@
 	<GeneDef Name="GeneCheatBase" Abstract="True">
 		<canGenerateInGeneSet>false</canGenerateInGeneSet>
 		<randomChosen>false</randomChosen>
+		<biostatCpx>0</biostatCpx>
+		<biostatMet>0</biostatMet>
+		<biostatArc>0</biostatArc>
 	</GeneDef>
 	
 	<GeneDef Name="GeneCheatMisc" ParentName="GeneCheatBase" Abstract="True">
@@ -61,6 +64,50 @@
 		<biostatArc>-999</biostatArc>
 	</GeneDef>
 	
+	<GeneDef ParentName="GeneCheatMisc">
+		<defName>CHT25</defName>
+		<label>Cheat 25</label>
+		<description>Removes 25 complexity, 25 metabolic efficiency, and 25 archite capsules.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<biostatCpx>-25</biostatCpx>
+		<biostatMet>25</biostatMet>
+		<biostatArc>-25</biostatArc>
+	</GeneDef>
+	
+	<GeneDef ParentName="GeneCheatMisc">
+		<defName>CHT25v2</defName>
+		<label>Cheat 25 v2</label>
+		<description>Removes 25 complexity, 25 metabolic efficiency, and 25 archite capsules. Totally not the same as the other one, and definitely not extra cheaty.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<biostatCpx>-25</biostatCpx>
+		<biostatMet>25</biostatMet>
+		<biostatArc>-25</biostatArc>
+	</GeneDef>
+	
+	<GeneDef ParentName="GeneCheatMisc">
+		<defName>CHT50</defName>
+		<label>Cheat 50</label>
+		<description>Removes 50 complexity, 50 metabolic efficiency, and 50 archite capsules.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<biostatCpx>-50</biostatCpx>
+		<biostatMet>50</biostatMet>
+		<biostatArc>-50</biostatArc>
+	</GeneDef>
+	
+	<GeneDef ParentName="GeneCheatMisc">
+		<defName>CHT50v2</defName>
+		<label>Cheat 50 v2</label>
+		<description>Removes 50 complexity, 50 metabolic efficiency, and 50 archite capsules. Totally not the same as the other one, and definitely not extra cheaty.</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<biostatCpx>-50</biostatCpx>
+		<biostatMet>50</biostatMet>
+		<biostatArc>-50</biostatArc>
+	</GeneDef>
+
 	<GeneDef ParentName="CheatsPresets">
 		<defName>Speedster</defName>
 		<label>Speedster</label>
