@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!--
+	This file basically does the same thing as the GeneDefs_StatOffsets.xml, but labels it as x999 instead of +99900%, they probably are additive(or multiplicative) and could easily lead to overflow numbers.
+	
+	Disabled for now, but essentially all GeneDefs in the GeneDefs_StatOffsets.xml file could be placed in here, changing the appropriate tags and names so they aren't the same and error out
+	
+	<GeneDef ParentName="CheatsStatFactors">
+		<defName>InjuryHealingFactor999</defName>
+		<label>InjuryHealingFactor999</label>
+		<description>InjuryHealingFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<statFactors>
+			<InjuryHealingFactor>999</InjuryHealingFactor>
+		</statFactors>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatFactors">
+		<defName>ImmunityGainSpeedFactor999</defName>
+		<label>ImmunityGainSpeedFactor999</label>
+		<description>ImmunityGainSpeedFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<statFactors>
+			<ImmunityGainSpeed>999</ImmunityGainSpeed>
+		</statFactors>
+	</GeneDef>
+	-->
+</Defs>

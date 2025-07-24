@@ -1,0 +1,1887 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<GeneDef MayRequire="Ludeon.RimWorld.Anomaly" ParentName="CheatsStatOffsets">
+		<defName>ActivitySuppressionRate999</defName>
+		<label>ActivitySuppressionRate999</label>
+		<description>ActivitySuppressionRate999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>1</displayOrderInCategory>
+		<statOffsets>
+			<ActivitySuppressionRate MayRequire="Ludeon.RimWorld.Anomaly">999</ActivitySuppressionRate>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>AimingDelayFactor-999</defName>
+		<label>AimingDelayFactor-999</label>
+		<description>AimingDelayFactor-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<statOffsets>
+			<AimingDelayFactor>-999</AimingDelayFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>AnimalGatherSpeed999</defName>
+		<label>AnimalGatherSpeed999</label>
+		<description>AnimalGatherSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>3</displayOrderInCategory>
+		<statOffsets>
+			<AnimalGatherSpeed>999</AnimalGatherSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>AnimalGatherYield999</defName>
+		<label>AnimalGatherYield999</label>
+		<description>AnimalGatherYield999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>4</displayOrderInCategory>
+		<statOffsets>
+			<AnimalGatherYield>999</AnimalGatherYield>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>AnimalProductsSellImprovement999</defName>
+		<label>AnimalProductsSellImprovement999</label>
+		<description>AnimalProductsSellImprovement999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>5</displayOrderInCategory>
+		<statOffsets>
+			<AnimalProductsSellImprovement>999</AnimalProductsSellImprovement>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>AnimalsLearningFactor999</defName>
+		<label>AnimalsLearningFactor999</label>
+		<description>AnimalsLearningFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>6</displayOrderInCategory>
+		<statOffsets>
+			<AnimalsLearningFactor>999</AnimalsLearningFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>AntiOrgToxinEnvironmentResistance1</defName>
+		<label>AntiOrgToxinEnvironmentResistance1</label>
+		<description>AntiOrgToxinEnvironmentResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>7</displayOrderInCategory>
+		<statOffsets>
+			<AntiOrgToxinEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</AntiOrgToxinEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>AntiOrgToxinEnvironmentResistance999</defName>
+		<label>AntiOrgToxinEnvironmentResistance999</label>
+		<description>AntiOrgToxinEnvironmentResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>8</displayOrderInCategory>
+		<statOffsets>
+			<AntiOrgToxinEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</AntiOrgToxinEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>AntiOrgToxinResistance1</defName>
+		<label>AntiOrgToxinResistance1</label>
+		<description>AntiOrgToxinResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>9</displayOrderInCategory>
+		<statOffsets>
+			<AntiOrgToxinResistance MayRequire="blackmarket420.kraltechindustries">1</AntiOrgToxinResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>AntiOrgToxinResistance999</defName>
+		<label>AntiOrgToxinResistance999</label>
+		<description>AntiOrgToxinResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>10</displayOrderInCategory>
+		<statOffsets>
+			<AntiOrgToxinResistance MayRequire="blackmarket420.kraltechindustries">999</AntiOrgToxinResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ArmorRating_Blunt999</defName>
+		<label>ArmorRating_Blunt999</label>
+		<description>ArmorRating_Blunt999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>11</displayOrderInCategory>
+		<statOffsets>
+			<ArmorRating_Blunt>999</ArmorRating_Blunt>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ArmorRating_Heat999</defName>
+		<label>ArmorRating_Heat999</label>
+		<description>ArmorRating_Heat999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>12</displayOrderInCategory>
+		<statOffsets>
+			<ArmorRating_Heat>999</ArmorRating_Heat>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ArmorRating_Sharp999</defName>
+		<label>ArmorRating_Sharp999</label>
+		<description>ArmorRating_Sharp999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>13</displayOrderInCategory>
+		<statOffsets>
+			<ArmorRating_Sharp>999</ArmorRating_Sharp>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ArmorRating_All999</defName>
+		<label>ArmorRating_Sharp999</label>
+		<description>ArmorRating_Sharp999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>14</displayOrderInCategory>
+		<statOffsets>
+			<ArmorRating_Sharp>999</ArmorRating_Sharp>
+			<ArmorRating_Blunt>999</ArmorRating_Blunt>
+			<ArmorRating_Heat>999</ArmorRating_Heat>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ArrestSuccessChance999</defName>
+		<label>ArrestSuccessChance999</label>
+		<description>ArrestSuccessChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>15</displayOrderInCategory>
+		<statOffsets>
+			<ArrestSuccessChance>999</ArrestSuccessChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>BiosculpterOccupantSpeed999</defName>
+		<label>BiosculpterOccupantSpeed999</label>
+		<description>BiosculpterOccupantSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>16</displayOrderInCategory>
+		<statOffsets>
+			<BiosculpterOccupantSpeed>999</BiosculpterOccupantSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>BondAnimalChanceFactor999</defName>
+		<label>BondAnimalChanceFactor999</label>
+		<description>BondAnimalChanceFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>17</displayOrderInCategory>
+		<statOffsets>
+			<BondAnimalChanceFactor>999</BondAnimalChanceFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ButcheryFleshEfficiency999</defName>
+		<label>ButcheryFleshEfficiency999</label>
+		<description>ButcheryFleshEfficiency999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>18</displayOrderInCategory>
+		<statOffsets>
+			<ButcheryFleshEfficiency>999</ButcheryFleshEfficiency>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ButcheryFleshSpeed999</defName>
+		<label>ButcheryFleshSpeed999</label>
+		<description>ButcheryFleshSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>19</displayOrderInCategory>
+		<statOffsets>
+			<ButcheryFleshSpeed>999</ButcheryFleshSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ButcheryMechanoidEfficiency999</defName>
+		<label>ButcheryMechanoidEfficiency999</label>
+		<description>ButcheryMechanoidEfficiency999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>20</displayOrderInCategory>
+		<statOffsets>
+			<ButcheryMechanoidEfficiency>999</ButcheryMechanoidEfficiency>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ButcheryMechanoidSpeed999</defName>
+		<label>ButcheryMechanoidSpeed999</label>
+		<description>ButcheryMechanoidSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>21</displayOrderInCategory>
+		<statOffsets>
+			<ButcheryMechanoidSpeed>999</ButcheryMechanoidSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>CaravanBonusSpeedFactor999</defName>
+		<label>CaravanBonusSpeedFactor999</label>
+		<description>CaravanBonusSpeedFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>22</displayOrderInCategory>
+		<statOffsets>
+			<CaravanBonusSpeedFactor>999</CaravanBonusSpeedFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>CaravanRidingSpeedFactor999</defName>
+		<label>CaravanRidingSpeedFactor999</label>
+		<description>CaravanRidingSpeedFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>23</displayOrderInCategory>
+		<statOffsets>
+			<CaravanRidingSpeedFactor>999</CaravanRidingSpeedFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>CarryingCapacity999</defName>
+		<label>CarryingCapacity999</label>
+		<description>CarryingCapacity999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>24</displayOrderInCategory>
+		<statOffsets>
+			<CarryingCapacity>999</CarryingCapacity>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>CertaintyLossFactor-999</defName>
+		<label>CertaintyLossFactor-999</label>
+		<description>CertaintyLossFactor-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>25</displayOrderInCategory>
+		<statOffsets>
+			<CertaintyLossFactor>-999</CertaintyLossFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>CleaningSpeed999</defName>
+		<label>CleaningSpeed999</label>
+		<description>CleaningSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>26</displayOrderInCategory>
+		<statOffsets>
+			<CleaningSpeed>999</CleaningSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>ColdNullNaniteEnvironmentResistance1</defName>
+		<label>ColdNullNaniteEnvironmentResistance1</label>
+		<description>ColdNullNaniteEnvironmentResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>27</displayOrderInCategory>
+		<statOffsets>
+			<ColdNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</ColdNullNaniteEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>ColdNullNaniteEnvironmentResistance999</defName>
+		<label>ColdNullNaniteEnvironmentResistance999</label>
+		<description>ColdNullNaniteEnvironmentResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>28</displayOrderInCategory>
+		<statOffsets>
+			<ColdNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</ColdNullNaniteEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>ColdNullNaniteResistance1</defName>
+		<label>ColdNullNaniteResistance1</label>
+		<description>ColdNullNaniteResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>29</displayOrderInCategory>
+		<statOffsets>
+			<ColdNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">1</ColdNullNaniteResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>ColdNullNaniteResistance999</defName>
+		<label>ColdNullNaniteResistance999</label>
+		<description>ColdNullNaniteResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>30</displayOrderInCategory>
+		<statOffsets>
+			<ColdNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">999</ColdNullNaniteResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ComfyTemperatureMax999</defName>
+		<label>ComfyTemperatureMax999</label>
+		<description>ComfyTemperatureMax999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>31</displayOrderInCategory>
+		<statOffsets>
+			<ComfyTemperatureMax>999</ComfyTemperatureMax>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ComfyTemperatureMin-999</defName>
+		<label>ComfyTemperatureMin-999</label>
+		<description>ComfyTemperatureMin-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>32</displayOrderInCategory>
+		<statOffsets>
+			<ComfyTemperatureMin>-999</ComfyTemperatureMin>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ConstructionSpeed999</defName>
+		<label>ConstructionSpeed999</label>
+		<description>ConstructionSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>33</displayOrderInCategory>
+		<statOffsets>
+			<ConstructionSpeed>999</ConstructionSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ConstructSuccessChance999</defName>
+		<label>ConstructSuccessChance999</label>
+		<description>ConstructSuccessChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>34</displayOrderInCategory>
+		<statOffsets>
+			<ConstructSuccessChance>999</ConstructSuccessChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>CookSpeed999</defName>
+		<label>CookSpeed999</label>
+		<description>CookSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>35</displayOrderInCategory>
+		<statOffsets>
+			<CookSpeed>999</CookSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>DeepDrillingSpeed999</defName>
+		<label>DeepDrillingSpeed999</label>
+		<description>DeepDrillingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>36</displayOrderInCategory>
+		<statOffsets>
+			<DeepDrillingSpeed>999</DeepDrillingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>DoorOpenSpeed999</defName>
+		<label>DoorOpenSpeed999</label>
+		<description>DoorOpenSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>37</displayOrderInCategory>
+		<statOffsets>
+			<DoorOpenSpeed>999</DoorOpenSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>DrugCookingSpeed999</defName>
+		<label>DrugCookingSpeed999</label>
+		<description>DrugCookingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>38</displayOrderInCategory>
+		<statOffsets>
+			<DrugCookingSpeed>999</DrugCookingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>DrugHarvestYield999</defName>
+		<label>DrugHarvestYield999</label>
+		<description>DrugHarvestYield999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>39</displayOrderInCategory>
+		<statOffsets>
+			<DrugHarvestYield>999</DrugHarvestYield>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>DrugSellPriceImprovement999</defName>
+		<label>DrugSellPriceImprovement999</label>
+		<description>DrugSellPriceImprovement999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>40</displayOrderInCategory>
+		<statOffsets>
+			<DrugSellPriceImprovement>999</DrugSellPriceImprovement>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>DrugSynthesisSpeed999</defName>
+		<label>DrugSynthesisSpeed999</label>
+		<description>DrugSynthesisSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>41</displayOrderInCategory>
+		<statOffsets>
+			<DrugSynthesisSpeed>999</DrugSynthesisSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>EatingSpeed999</defName>
+		<label>EatingSpeed999</label>
+		<description>EatingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>42</displayOrderInCategory>
+		<statOffsets>
+			<EatingSpeed>999</EatingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequireAnyOf="Ludeon.RimWorld.Biotech,Ludeon.RimWorld.Anomaly" ParentName="CheatsStatOffsets">
+		<defName>EMPResistance999</defName>
+		<label>EMPResistance999</label>
+		<description>EMPResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>43</displayOrderInCategory>
+		<statOffsets>
+			<EMPResistance MayRequireAnyOf="Ludeon.RimWorld.Biotech,Ludeon.RimWorld.Anomaly">999</EMPResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>EntityStudyRate999</defName>
+		<label>EntityStudyRate999</label>
+		<description>EntityStudyRate999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>44</displayOrderInCategory>
+		<statOffsets>
+			<EntityStudyRate>999</EntityStudyRate>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="Ludeon.RimWorld.Biotech" ParentName="CheatsStatOffsets">
+		<defName>Fertility-999</defName>
+		<label>Fertility-999</label>
+		<description>Fertility-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>45</displayOrderInCategory>
+		<statOffsets>
+			<Fertility MayRequire="Ludeon.RimWorld.Biotech">-999</Fertility>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="Ludeon.RimWorld.Biotech" ParentName="CheatsStatOffsets">
+		<defName>Fertility999</defName>
+		<label>Fertility999</label>
+		<description>Fertility999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>46</displayOrderInCategory>
+		<statOffsets>
+			<Fertility MayRequire="Ludeon.RimWorld.Biotech">999</Fertility>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>FilthRate-999</defName>
+		<label>FilthRate-999</label>
+		<description>FilthRate-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>47</displayOrderInCategory>
+		<statOffsets>
+			<FilthRate>-999</FilthRate>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>FishingSpeed999</defName>
+		<label>FishingSpeed999</label>
+		<description>FishingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>48</displayOrderInCategory>
+		<statOffsets>
+			<FishingSpeed>999</FishingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>FishingYield999</defName>
+		<label>FishingYield999</label>
+		<description>FishingYield999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>49</displayOrderInCategory>
+		<statOffsets>
+			<FishingYield>999</FishingYield>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>FixBrokenDownBuildingSuccessChance999</defName>
+		<label>FixBrokenDownBuildingSuccessChance999</label>
+		<description>FixBrokenDownBuildingSuccessChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>50</displayOrderInCategory>
+		<statOffsets>
+			<FixBrokenDownBuildingSuccessChance>999</FixBrokenDownBuildingSuccessChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>Flammability-999</defName>
+		<label>Flammability-999</label>
+		<description>Flammability-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>51</displayOrderInCategory>
+		<statOffsets>
+			<Flammability>-999</Flammability>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>FlightCooldown-999</defName>
+		<label>FlightCooldown-999</label>
+		<description>FlightCooldown-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>52</displayOrderInCategory>
+		<statOffsets>
+			<FlightCooldown>-999</FlightCooldown>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>FoodPoisonChance-999</defName>
+		<label>FoodPoisonChance-999</label>
+		<description>FoodPoisonChance-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>53</displayOrderInCategory>
+		<statOffsets>
+			<FoodPoisonChance>-999</FoodPoisonChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ForagedNutritionPerDay999</defName>
+		<label>ForagedNutritionPerDay999</label>
+		<description>ForagedNutritionPerDay999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>54</displayOrderInCategory>
+		<statOffsets>
+			<ForagedNutritionPerDay>999</ForagedNutritionPerDay>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>GeneralLaborSpeed999</defName>
+		<label>GeneralLaborSpeed999</label>
+		<description>GeneralLaborSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>55</displayOrderInCategory>
+		<statOffsets>
+			<GeneralLaborSpeed>999</GeneralLaborSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>GlobalLearningFactor999</defName>
+		<label>GlobalLearningFactor999</label>
+		<description>GlobalLearningFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>56</displayOrderInCategory>
+		<statOffsets>
+			<GlobalLearningFactor>999</GlobalLearningFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>GrowthVatOccupantSpeed999</defName>
+		<label>GrowthVatOccupantSpeed999</label>
+		<description>GrowthVatOccupantSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>57</displayOrderInCategory>
+		<statOffsets>
+			<GrowthVatOccupantSpeed>999</GrowthVatOccupantSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>HackingSpeed999</defName>
+		<label>HackingSpeed999</label>
+		<description>HackingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>58</displayOrderInCategory>
+		<statOffsets>
+			<HackingSpeed>999</HackingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>HackingStealth999</defName>
+		<label>HackingStealth999</label>
+		<description>HackingStealth999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>59</displayOrderInCategory>
+		<statOffsets>
+			<HackingStealth>999</HackingStealth>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>HeatNullNaniteEnvironmentResistance1</defName>
+		<label>HeatNullNaniteEnvironmentResistance1</label>
+		<description>HeatNullNaniteEnvironmentResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>60</displayOrderInCategory>
+		<statOffsets>
+			<HeatNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</HeatNullNaniteEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>HeatNullNaniteEnvironmentResistance999</defName>
+		<label>HeatNullNaniteEnvironmentResistance999</label>
+		<description>HeatNullNaniteEnvironmentResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>61</displayOrderInCategory>
+		<statOffsets>
+			<HeatNullNaniteEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</HeatNullNaniteEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>HeatNullNaniteResistance1</defName>
+		<label>HeatNullNaniteResistance1</label>
+		<description>HeatNullNaniteResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>62</displayOrderInCategory>
+		<statOffsets>
+			<HeatNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">1</HeatNullNaniteResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>HeatNullNaniteResistance999</defName>
+		<label>HeatNullNaniteResistance999</label>
+		<description>HeatNullNaniteResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>63</displayOrderInCategory>
+		<statOffsets>
+			<HeatNullNaniteResistance MayRequire="blackmarket420.kraltechindustries">999</HeatNullNaniteResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>HemogenGainFactor999</defName>
+		<label>HemogenGainFactor999</label>
+		<description>HemogenGainFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>64</displayOrderInCategory>
+		<statOffsets>
+			<HemogenGainFactor>999</HemogenGainFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>HuntingStealth999</defName>
+		<label>HuntingStealth999</label>
+		<description>HuntingStealth999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>65</displayOrderInCategory>
+		<statOffsets>
+			<HuntingStealth>999</HuntingStealth>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ImmunityGainSpeed999</defName>
+		<label>ImmunityGainSpeed999</label>
+		<description>ImmunityGainSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>66</displayOrderInCategory>
+		<statOffsets>
+			<ImmunityGainSpeed>999</ImmunityGainSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>IncomingDamageFactor-1</defName>
+		<label>IncomingDamageFactor-1</label>
+		<description>IncomingDamageFactor-1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>67</displayOrderInCategory>
+		<statOffsets>
+			<IncomingDamageFactor>-1</IncomingDamageFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>IncomingDamageFactor-999</defName>
+		<label>IncomingDamageFactor-999</label>
+		<description>IncomingDamageFactor-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>68</displayOrderInCategory>
+		<statOffsets>
+			<IncomingDamageFactor>-999</IncomingDamageFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>InjuryHealingFactor999</defName>
+		<label>InjuryHealingFactor999</label>
+		<description>InjuryHealingFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>69</displayOrderInCategory>
+		<statOffsets>
+			<InjuryHealingFactor>999</InjuryHealingFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>JoyFallRateFactor-999</defName>
+		<label>JoyFallRateFactor-999</label>
+		<description>JoyFallRateFactor-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>70</displayOrderInCategory>
+		<statOffsets>
+			<JoyFallRateFactor>-999</JoyFallRateFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>JumpRange999</defName>
+		<label>JumpRange999</label>
+		<description>JumpRange999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>71</displayOrderInCategory>
+		<statOffsets>
+			<JumpRange>999</JumpRange>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>LearningRateFactor999</defName>
+		<label>LearningRateFactor999</label>
+		<description>LearningRateFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>72</displayOrderInCategory>
+		<statOffsets>
+			<LearningRateFactor>999</LearningRateFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>LeatherAmount999</defName>
+		<label>LeatherAmount999</label>
+		<description>LeatherAmount999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>73</displayOrderInCategory>
+		<statOffsets>
+			<LeatherAmount>999</LeatherAmount>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>LifespanFactor999</defName>
+		<label>LifespanFactor999</label>
+		<description>LifespanFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>74</displayOrderInCategory>
+		<statOffsets>
+			<LifespanFactor>999</LifespanFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MaxFlightTime999</defName>
+		<label>MaxFlightTime999</label>
+		<description>MaxFlightTime999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>75</displayOrderInCategory>
+		<statOffsets>
+			<MaxFlightTime>999</MaxFlightTime>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeatAmount999</defName>
+		<label>MeatAmount999</label>
+		<description>MeatAmount999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>76</displayOrderInCategory>
+		<statOffsets>
+			<MeatAmount>999</MeatAmount>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MechBandwidth99</defName>
+		<label>MechBandwidth99</label>
+		<description>MechBandwidth99</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>77</displayOrderInCategory>
+		<statOffsets>
+			<MechBandwidth>99</MechBandwidth>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MechControlGroups99</defName>
+		<label>MechControlGroups99</label>
+		<description>MechControlGroups99</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>78</displayOrderInCategory>
+		<statOffsets>
+			<MechControlGroups>99</MechControlGroups>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MechFormingSpeed999</defName>
+		<label>MechFormingSpeed999</label>
+		<description>MechFormingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>79</displayOrderInCategory>
+		<statOffsets>
+			<MechFormingSpeed>999</MechFormingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MechRemoteRepairDistance9</defName>
+		<label>MechRemoteRepairDistance9</label>
+		<description>MechRemoteRepairDistance9</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>80</displayOrderInCategory>
+		<statOffsets>
+			<MechRemoteRepairDistance>9</MechRemoteRepairDistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MechRemoteShieldDistance9</defName>
+		<label>MechRemoteShieldDistance9</label>
+		<description>MechRemoteShieldDistance9</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>81</displayOrderInCategory>
+		<statOffsets>
+			<MechRemoteShieldDistance>9</MechRemoteShieldDistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MechRemoteShieldEnergy999</defName>
+		<label>MechRemoteShieldEnergy999</label>
+		<description>MechRemoteShieldEnergy999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>82</displayOrderInCategory>
+		<statOffsets>
+			<MechRemoteShieldEnergy>999</MechRemoteShieldEnergy>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MechRepairSpeed999</defName>
+		<label>MechRepairSpeed999</label>
+		<description>MechRepairSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>83</displayOrderInCategory>
+		<statOffsets>
+			<MechRepairSpeed>999</MechRepairSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MedicalOperationSpeed999</defName>
+		<label>MedicalOperationSpeed999</label>
+		<description>MedicalOperationSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>84</displayOrderInCategory>
+		<statOffsets>
+			<MedicalOperationSpeed>999</MedicalOperationSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MedicalSurgerySuccessChance999</defName>
+		<label>MedicalSurgerySuccessChance999</label>
+		<description>MedicalSurgerySuccessChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>85</displayOrderInCategory>
+		<statOffsets>
+			<MedicalSurgerySuccessChance>999</MedicalSurgerySuccessChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MedicalTendQuality999</defName>
+		<label>MedicalTendQuality999</label>
+		<description>MedicalTendQuality999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>86</displayOrderInCategory>
+		<statOffsets>
+			<MedicalTendQuality>999</MedicalTendQuality>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MedicalTendSpeed999</defName>
+		<label>MedicalTendSpeed999</label>
+		<description>MedicalTendSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>87</displayOrderInCategory>
+		<statOffsets>
+			<MedicalTendSpeed>999</MedicalTendSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech" ParentName="CheatsStatOffsets">
+		<defName>MeditationFocusGain999</defName>
+		<label>MeditationFocusGain999</label>
+		<description>MeditationFocusGain999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>88</displayOrderInCategory>
+		<statOffsets>
+			<MeditationFocusGain MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech">999</MeditationFocusGain>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeditationPlantGrowthOffset999</defName>
+		<label>MeditationPlantGrowthOffset999</label>
+		<description>MeditationPlantGrowthOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>89</displayOrderInCategory>
+		<statOffsets>
+			<MeditationPlantGrowthOffset>999</MeditationPlantGrowthOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeArmorPenetration999</defName>
+		<label>MeleeArmorPenetration999</label>
+		<description>MeleeArmorPenetration999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>90</displayOrderInCategory>
+		<statOffsets>
+			<MeleeArmorPenetration>999</MeleeArmorPenetration>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeCooldownFactor0.001</defName>
+		<label>MeleeCooldownFactor0.001</label>
+		<description>MeleeCooldownFactor0.001</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>91</displayOrderInCategory>
+		<statOffsets>
+			<MeleeCooldownFactor>0.001</MeleeCooldownFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeDamageFactor999</defName>
+		<label>MeleeDamageFactor999</label>
+		<description>MeleeDamageFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>92</displayOrderInCategory>
+		<statOffsets>
+			<MeleeDamageFactor>999</MeleeDamageFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeDodgeChance999</defName>
+		<label>MeleeDodgeChance999</label>
+		<description>MeleeDodgeChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>93</displayOrderInCategory>
+		<statOffsets>
+			<MeleeDodgeChance>999</MeleeDodgeChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeDodgeChanceIndoorsDarkOffset999</defName>
+		<label>MeleeDodgeChanceIndoorsDarkOffset999</label>
+		<description>MeleeDodgeChanceIndoorsDarkOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>94</displayOrderInCategory>
+		<statOffsets>
+			<MeleeDodgeChanceIndoorsDarkOffset>999</MeleeDodgeChanceIndoorsDarkOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeDodgeChanceIndoorsLitOffset999</defName>
+		<label>MeleeDodgeChanceIndoorsLitOffset999</label>
+		<description>MeleeDodgeChanceIndoorsLitOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>95</displayOrderInCategory>
+		<statOffsets>
+			<MeleeDodgeChanceIndoorsLitOffset>999</MeleeDodgeChanceIndoorsLitOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeDodgeChanceOutdoorsDarkOffset999</defName>
+		<label>MeleeDodgeChanceOutdoorsDarkOffset999</label>
+		<description>MeleeDodgeChanceOutdoorsDarkOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>96</displayOrderInCategory>
+		<statOffsets>
+			<MeleeDodgeChanceOutdoorsDarkOffset>999</MeleeDodgeChanceOutdoorsDarkOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeDodgeChanceOutdoorsLitOffset999</defName>
+		<label>MeleeDodgeChanceOutdoorsLitOffset999</label>
+		<description>MeleeDodgeChanceOutdoorsLitOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>97</displayOrderInCategory>
+		<statOffsets>
+			<MeleeDodgeChanceOutdoorsLitOffset>999</MeleeDodgeChanceOutdoorsLitOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeHitChance999</defName>
+		<label>MeleeHitChance999</label>
+		<description>MeleeHitChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>98</displayOrderInCategory>
+		<statOffsets>
+			<MeleeHitChance>999</MeleeHitChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeHitChanceIndoorsLitOffset999</defName>
+		<label>MeleeHitChanceIndoorsLitOffset999</label>
+		<description>MeleeHitChanceIndoorsLitOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>99</displayOrderInCategory>
+		<statOffsets>
+			<MeleeHitChanceIndoorsLitOffset>999</MeleeHitChanceIndoorsLitOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MeleeHitChanceOutdoorsDarkOffset999</defName>
+		<label>MeleeHitChanceOutdoorsDarkOffset999</label>
+		<description>MeleeHitChanceOutdoorsDarkOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>100</displayOrderInCategory>
+		<statOffsets>
+			<MeleeHitChanceOutdoorsDarkOffset>999</MeleeHitChanceOutdoorsDarkOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MentalBreakThreshold-999</defName>
+		<label>MentalBreakThreshold-999</label>
+		<description>MentalBreakThreshold-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>101</displayOrderInCategory>
+		<statOffsets>
+			<MentalBreakThreshold>-999</MentalBreakThreshold>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MinimumContainmentStrength-1</defName>
+		<label>MinimumContainmentStrength-1</label>
+		<description>MinimumContainmentStrength-1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>102</displayOrderInCategory>
+		<statOffsets>
+			<MinimumContainmentStrength>-1</MinimumContainmentStrength>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MinimumContainmentStrength999</defName>
+		<label>MinimumContainmentStrength999</label>
+		<description>MinimumContainmentStrength999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>103</displayOrderInCategory>
+		<statOffsets>
+			<MinimumContainmentStrength>999</MinimumContainmentStrength>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MiningSpeed999</defName>
+		<label>MiningSpeed999</label>
+		<description>MiningSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>104</displayOrderInCategory>
+		<statOffsets>
+			<MiningSpeed>999</MiningSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MiningYield999</defName>
+		<label>MiningYield999</label>
+		<description>MiningYield999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>105</displayOrderInCategory>
+		<statOffsets>
+			<MiningYield>999</MiningYield>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MortarMissRadiusFactor-999</defName>
+		<label>MortarMissRadiusFactor-999</label>
+		<description>MortarMissRadiusFactor-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>106</displayOrderInCategory>
+		<statOffsets>
+			<MortarMissRadiusFactor>-999</MortarMissRadiusFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>MoveSpeed999</defName>
+		<label>MoveSpeed999</label>
+		<description>MoveSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>107</displayOrderInCategory>
+		<statOffsets>
+			<MoveSpeed>999</MoveSpeed>
+			<CrawlSpeed>999</CrawlSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>NegotiationAbility999</defName>
+		<label>NegotiationAbility999</label>
+		<description>NegotiationAbility999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>108</displayOrderInCategory>
+		<statOffsets>
+			<NegotiationAbility>999</NegotiationAbility>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PainShockThreshold999</defName>
+		<label>PainShockThreshold999</label>
+		<description>PainShockThreshold999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>109</displayOrderInCategory>
+		<statOffsets>
+			<PainShockThreshold>999</PainShockThreshold>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PawnBeauty999</defName>
+		<label>PawnBeauty999</label>
+		<description>PawnBeauty999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>110</displayOrderInCategory>
+		<statOffsets>
+			<PawnBeauty>999</PawnBeauty>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PawnTrapSpringChance-999</defName>
+		<label>PawnTrapSpringChance-999</label>
+		<description>PawnTrapSpringChance-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>111</displayOrderInCategory>
+		<statOffsets>
+			<PawnTrapSpringChance>-999</PawnTrapSpringChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PilotingAbility999</defName>
+		<label>PilotingAbility999</label>
+		<description>PilotingAbility999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>112</displayOrderInCategory>
+		<statOffsets>
+			<PilotingAbility>999</PilotingAbility>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PlantHarvestYield999</defName>
+		<label>PlantHarvestYield999</label>
+		<description>PlantHarvestYield999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>113</displayOrderInCategory>
+		<statOffsets>
+			<PlantHarvestYield>999</PlantHarvestYield>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PlantWorkSpeed999</defName>
+		<label>PlantWorkSpeed999</label>
+		<description>PlantWorkSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>114</displayOrderInCategory>
+		<statOffsets>
+			<PlantWorkSpeed>999</PlantWorkSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PruningSpeed0.25</defName>
+		<label>PruningSpeed0.25</label>
+		<description>PruningSpeed0.25</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>115</displayOrderInCategory>
+		<statOffsets>
+			<PruningSpeed>0.25</PruningSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PsychicEntropyGain-999</defName>
+		<label>PsychicEntropyGain-999</label>
+		<description>PsychicEntropyGain-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>116</displayOrderInCategory>
+		<statOffsets>
+			<PsychicEntropyGain>-999</PsychicEntropyGain>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech" ParentName="CheatsStatOffsets">
+		<defName>PsychicEntropyMax999</defName>
+		<label>PsychicEntropyMax999</label>
+		<description>PsychicEntropyMax999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>117</displayOrderInCategory>
+		<statOffsets>
+			<PsychicEntropyMax MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech">999</PsychicEntropyMax>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech" ParentName="CheatsStatOffsets">
+		<defName>PsychicEntropyRecoveryRate999</defName>
+		<label>PsychicEntropyRecoveryRate999</label>
+		<description>PsychicEntropyRecoveryRate999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>118</displayOrderInCategory>
+		<statOffsets>
+			<PsychicEntropyRecoveryRate MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech">999</PsychicEntropyRecoveryRate>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PsychicRitualQualityOffset999</defName>
+		<label>PsychicRitualQualityOffset999</label>
+		<description>PsychicRitualQualityOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>119</displayOrderInCategory>
+		<statOffsets>
+			<PsychicRitualQualityOffset>999</PsychicRitualQualityOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>PsychicSensitivity999</defName>
+		<label>PsychicSensitivity999</label>
+		<description>PsychicSensitivity999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>120</displayOrderInCategory>
+		<statOffsets>
+			<PsychicSensitivity>999</PsychicSensitivity>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>RadiationEnvironmentResistance1</defName>
+		<label>RadiationEnvironmentResistance1</label>
+		<description>RadiationEnvironmentResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>121</displayOrderInCategory>
+		<statOffsets>
+			<RadiationEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</RadiationEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>RadiationEnvironmentResistance999</defName>
+		<label>RadiationEnvironmentResistance999</label>
+		<description>RadiationEnvironmentResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>122</displayOrderInCategory>
+		<statOffsets>
+			<RadiationEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</RadiationEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>RadiationResistance1</defName>
+		<label>RadiationResistance1</label>
+		<description>RadiationResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>123</displayOrderInCategory>
+		<statOffsets>
+			<RadiationResistance MayRequire="blackmarket420.kraltechindustries">1</RadiationResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>RadiationResistance999</defName>
+		<label>RadiationResistance999</label>
+		<description>RadiationResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>124</displayOrderInCategory>
+		<statOffsets>
+			<RadiationResistance MayRequire="blackmarket420.kraltechindustries">999</RadiationResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>RageVirusEnvironmentResistance1</defName>
+		<label>RageVirusEnvironmentResistance1</label>
+		<description>RageVirusEnvironmentResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>125</displayOrderInCategory>
+		<statOffsets>
+			<RageVirusEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">1</RageVirusEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>RageVirusEnvironmentResistance999</defName>
+		<label>RageVirusEnvironmentResistance999</label>
+		<description>RageVirusEnvironmentResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>126</displayOrderInCategory>
+		<statOffsets>
+			<RageVirusEnvironmentResistance MayRequire="blackmarket420.kraltechindustries">999</RageVirusEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>RageVirusResistance1</defName>
+		<label>RageVirusResistance1</label>
+		<description>RageVirusResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>127</displayOrderInCategory>
+		<statOffsets>
+			<RageVirusResistance MayRequire="blackmarket420.kraltechindustries">1</RageVirusResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="blackmarket420.kraltechindustries" ParentName="CheatsStatOffsets">
+		<defName>RageVirusResistance999</defName>
+		<label>RageVirusResistance999</label>
+		<description>RageVirusResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>128</displayOrderInCategory>
+		<statOffsets>
+			<RageVirusResistance MayRequire="blackmarket420.kraltechindustries">999</RageVirusResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="Ludeon.RimWorld.Biotech" ParentName="CheatsStatOffsets">
+		<defName>RawNutritionFactor999</defName>
+		<label>RawNutritionFactor999</label>
+		<description>RawNutritionFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>129</displayOrderInCategory>
+		<statOffsets>
+			<RawNutritionFactor MayRequire="Ludeon.RimWorld.Biotech">999</RawNutritionFactor >
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ReadingSpeed999</defName>
+		<label>ReadingSpeed999</label>
+		<description>ReadingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>130</displayOrderInCategory>
+		<statOffsets>
+			<ReadingSpeed>999</ReadingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ResearchSpeed999</defName>
+		<label>ResearchSpeed999</label>
+		<description>ResearchSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>131</displayOrderInCategory>
+		<statOffsets>
+			<ResearchSpeed>999</ResearchSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>RestFallRateFactor0</defName>
+		<label>RestFallRateFactor0</label>
+		<description>RestFallRateFactor0</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>132</displayOrderInCategory>
+		<statOffsets>
+			<RestFallRateFactor>0</RestFallRateFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>RestRateMultiplier999</defName>
+		<label>RestRateMultiplier999</label>
+		<description>RestRateMultiplier999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>133</displayOrderInCategory>
+		<statOffsets>
+			<RestRateMultiplier>999</RestRateMultiplier>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ShootingAccuracyFactor_Long999</defName>
+		<label>ShootingAccuracyFactor_Long999</label>
+		<description>ShootingAccuracyFactor_Long999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>134</displayOrderInCategory>
+		<statOffsets>
+			<ShootingAccuracyFactor_Long>999</ShootingAccuracyFactor_Long>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ShootingAccuracyFactor_Medium999</defName>
+		<label>ShootingAccuracyFactor_Medium999</label>
+		<description>ShootingAccuracyFactor_Medium999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>135</displayOrderInCategory>
+		<statOffsets>
+			<ShootingAccuracyFactor_Medium>999</ShootingAccuracyFactor_Medium>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ShootingAccuracyFactor_Short999</defName>
+		<label>ShootingAccuracyFactor_Short999</label>
+		<description>ShootingAccuracyFactor_Short999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>136</displayOrderInCategory>
+		<statOffsets>
+			<ShootingAccuracyFactor_Short>999</ShootingAccuracyFactor_Short>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ShootingAccuracyFactor_Touch999</defName>
+		<label>ShootingAccuracyFactor_Touch999</label>
+		<description>ShootingAccuracyFactor_Touch999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>137</displayOrderInCategory>
+		<statOffsets>
+			<ShootingAccuracyFactor_Touch>999</ShootingAccuracyFactor_Touch>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ShootingAccuracyIndoorsDarkOffset999</defName>
+		<label>ShootingAccuracyIndoorsDarkOffset999</label>
+		<description>ShootingAccuracyIndoorsDarkOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>138</displayOrderInCategory>
+		<statOffsets>
+			<ShootingAccuracyIndoorsDarkOffset>999</ShootingAccuracyIndoorsDarkOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ShootingAccuracyIndoorsLitOffset999</defName>
+		<label>ShootingAccuracyIndoorsLitOffset999</label>
+		<description>ShootingAccuracyIndoorsLitOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>139</displayOrderInCategory>
+		<statOffsets>
+			<ShootingAccuracyIndoorsLitOffset>999</ShootingAccuracyIndoorsLitOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ShootingAccuracyOutdoorsDarkOffset999</defName>
+		<label>ShootingAccuracyOutdoorsDarkOffset999</label>
+		<description>ShootingAccuracyOutdoorsDarkOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>140</displayOrderInCategory>
+		<statOffsets>
+			<ShootingAccuracyOutdoorsDarkOffset>999</ShootingAccuracyOutdoorsDarkOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ShootingAccuracyOutdoorsLitOffset999</defName>
+		<label>ShootingAccuracyOutdoorsLitOffset999</label>
+		<description>ShootingAccuracyOutdoorsLitOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>141</displayOrderInCategory>
+		<statOffsets>
+			<ShootingAccuracyOutdoorsLitOffset>999</ShootingAccuracyOutdoorsLitOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ShootingAccuracyPawn8</defName>
+		<label>ShootingAccuracyPawn8</label>
+		<description>ShootingAccuracyPawn8</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>142</displayOrderInCategory>
+		<statOffsets>
+			<ShootingAccuracyPawn>8</ShootingAccuracyPawn>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>SlaveSuppressionFallRate-999</defName>
+		<label>SlaveSuppressionFallRate-999</label>
+		<description>SlaveSuppressionFallRate-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>143</displayOrderInCategory>
+		<statOffsets>
+			<SlaveSuppressionFallRate>-999</SlaveSuppressionFallRate>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>SmeltingSpeed999</defName>
+		<label>SmeltingSpeed999</label>
+		<description>SmeltingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>144</displayOrderInCategory>
+		<statOffsets>
+			<SmeltingSpeed>999</SmeltingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>SmoothingSpeed999</defName>
+		<label>SmoothingSpeed999</label>
+		<description>SmoothingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>145</displayOrderInCategory>
+		<statOffsets>
+			<SmoothingSpeed>999</SmoothingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>SocialIdeoSpreadFrequencyFactor999</defName>
+		<label>SocialIdeoSpreadFrequencyFactor999</label>
+		<description>SocialIdeoSpreadFrequencyFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>146</displayOrderInCategory>
+		<statOffsets>
+			<SocialIdeoSpreadFrequencyFactor>999</SocialIdeoSpreadFrequencyFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>SocialImpact999</defName>
+		<label>SocialImpact999</label>
+		<description>SocialImpact999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>147</displayOrderInCategory>
+		<statOffsets>
+			<SocialImpact>999</SocialImpact>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>StaggerDurationFactor-999</defName>
+		<label>StaggerDurationFactor-999</label>
+		<description>StaggerDurationFactor-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>148</displayOrderInCategory>
+		<statOffsets>
+			<StaggerDurationFactor>-999</StaggerDurationFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>StudyEfficiency999</defName>
+		<label>StudyEfficiency999</label>
+		<description>StudyEfficiency999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>149</displayOrderInCategory>
+		<statOffsets>
+			<StudyEfficiency>999</StudyEfficiency>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>SubcoreEncodingSpeed999</defName>
+		<label>SubcoreEncodingSpeed999</label>
+		<description>SubcoreEncodingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>150</displayOrderInCategory>
+		<statOffsets>
+			<SubcoreEncodingSpeed>999</SubcoreEncodingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>SuppressionPower999</defName>
+		<label>SuppressionPower999</label>
+		<description>SuppressionPower999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>151</displayOrderInCategory>
+		<statOffsets>
+			<SuppressionPower>999</SuppressionPower>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>TameAnimalChance999</defName>
+		<label>TameAnimalChance999</label>
+		<description>TameAnimalChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>152</displayOrderInCategory>
+		<statOffsets>
+			<TameAnimalChance>999</TameAnimalChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>ToxicEnvironmentResistance1</defName>
+		<label>ToxicEnvironmentResistance1</label>
+		<description>ToxicEnvironmentResistance1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>153</displayOrderInCategory>
+		<statOffsets>
+			<ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>TradePriceImprovement999</defName>
+		<label>TradePriceImprovement999</label>
+		<description>TradePriceImprovement999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>154</displayOrderInCategory>
+		<statOffsets>
+			<TradePriceImprovement>999</TradePriceImprovement>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>TrainAnimalChance999</defName>
+		<label>TrainAnimalChance999</label>
+		<description>TrainAnimalChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>155</displayOrderInCategory>
+		<statOffsets>
+			<TrainAnimalChance>999</TrainAnimalChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>TrapSpringChance-1</defName>
+		<label>TrapSpringChance-1</label>
+		<description>TrapSpringChance-1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>156</displayOrderInCategory>
+		<statOffsets>
+			<TrapSpringChance>-1</TrapSpringChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="neronix17.tweaksgalore" ParentName="CheatsStatOffsets">
+		<defName>TweaksGalore_StonecuttingSpeed999</defName>
+		<label>TweaksGalore_StonecuttingSpeed999</label>
+		<description>TweaksGalore_StonecuttingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>157</displayOrderInCategory>
+		<statOffsets>
+			<TweaksGalore_StonecuttingSpeed MayRequire="neronix17.tweaksgalore">999</TweaksGalore_StonecuttingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>VacuumResistance999</defName>
+		<label>VacuumResistance999</label>
+		<description>VacuumResistance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>158</displayOrderInCategory>
+		<statOffsets>
+			<VacuumResistance>999</VacuumResistance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="vanillaexpanded.vbookse" ParentName="CheatsStatOffsets">
+		<defName>VBE_WritingSpeed999</defName>
+		<label>VBE_WritingSpeed999</label>
+		<description>VBE_WritingSpeed999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>159</displayOrderInCategory>
+		<statOffsets>
+			<VBE_WritingSpeed MayRequire="vanillaexpanded.vbookse">999</VBE_WritingSpeed>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="vanillaexpanded.vcooke" ParentName="CheatsStatOffsets">
+		<defName>VCE_FoodImprovementChance999</defName>
+		<label>VCE_FoodImprovementChance999</label>
+		<description>VCE_FoodImprovementChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>160</displayOrderInCategory>
+		<statOffsets>
+			<VCE_FoodImprovementChance MayRequire="vanillaexpanded.vcooke">999</VCE_FoodImprovementChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="vanillaexpanded.vcef" ParentName="CheatsStatOffsets">
+		<defName>VCEF_FishingLuckOffset999</defName>
+		<label>VCEF_FishingLuckOffset999</label>
+		<description>VCEF_FishingLuckOffset999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>161</displayOrderInCategory>
+		<statOffsets>
+			<VCEF_FishingLuckOffset MayRequire="vanillaexpanded.vcef">999</VCEF_FishingLuckOffset>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="vanillaexpanded.vcooke" ParentName="CheatsStatOffsets">
+		<defName>VCEF_FoodCondimentChance999</defName>
+		<label>VCEF_FoodCondimentChance999</label>
+		<description>VCEF_FoodCondimentChance999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>162</displayOrderInCategory>
+		<statOffsets>
+			<VCEF_FoodCondimentChance MayRequire="vanillaexpanded.vcooke">999</VCEF_FoodCondimentChance>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="oskarpotocki.vanillafactionsexpanded.core" ParentName="CheatsStatOffsets">
+		<defName>VEF_MeleeAttackDamageFactor999</defName>
+		<label>VEF_MeleeAttackDamageFactor999</label>
+		<description>VEF_MeleeAttackDamageFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>163</displayOrderInCategory>
+		<statOffsets>
+			<VEF_MeleeAttackDamageFactor MayRequire="oskarpotocki.vanillafactionsexpanded.core">999</VEF_MeleeAttackDamageFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="oskarpotocki.vanillafactionsexpanded.core" ParentName="CheatsStatOffsets">
+		<defName>VEF_MeleeAttackSpeedFactor999</defName>
+		<label>VEF_MeleeAttackSpeedFactor999</label>
+		<description>VEF_MeleeAttackSpeedFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>164</displayOrderInCategory>
+		<statOffsets>
+			<VEF_MeleeAttackSpeedFactor MayRequire="oskarpotocki.vanillafactionsexpanded.core">999</VEF_MeleeAttackSpeedFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="oskarpotocki.vanillafactionsexpanded.core" ParentName="CheatsStatOffsets">
+		<defName>VEF_RangeAttackDamageFactor999</defName>
+		<label>VEF_RangeAttackDamageFactor999</label>
+		<description>VEF_RangeAttackDamageFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>165</displayOrderInCategory>
+		<statOffsets>
+			<VEF_RangeAttackDamageFactor MayRequire="oskarpotocki.vanillafactionsexpanded.core">999</VEF_RangeAttackDamageFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="oskarpotocki.vanillafactionsexpanded.core" ParentName="CheatsStatOffsets">
+		<defName>VEF_RangeAttackSpeedFactor999</defName>
+		<label>VEF_RangeAttackSpeedFactor999</label>
+		<description>VEF_RangeAttackSpeedFactor999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>166</displayOrderInCategory>
+		<statOffsets>
+			<VEF_RangeAttackSpeedFactor MayRequire="oskarpotocki.vanillafactionsexpanded.core">999</VEF_RangeAttackSpeedFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="vanillaexpanded.vpsycastse" ParentName="CheatsStatOffsets">
+		<defName>VPE_PsychicEntropyMinimum-1</defName>
+		<label>VPE_PsychicEntropyMinimum-1</label>
+		<description>VPE_PsychicEntropyMinimum-1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>167</displayOrderInCategory>
+		<statOffsets>
+			<VPE_PsychicEntropyMinimum MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsychicEntropyMinimum>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef MayRequire="vanillaexpanded.vpsycastse" ParentName="CheatsStatOffsets">
+		<defName>VPE_PsyfocusCostFactor-1</defName>
+		<label>VPE_PsyfocusCostFactor-1</label>
+		<description>VPE_PsyfocusCostFactor-1</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>168</displayOrderInCategory>
+		<statOffsets>
+			<VPE_PsyfocusCostFactor MayRequire="vanillaexpanded.vpsycastse">-1</VPE_PsyfocusCostFactor>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>Wildness-999</defName>
+		<label>Wildness-999</label>
+		<description>Wildness-999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>169</displayOrderInCategory>
+		<statOffsets>
+			<Wildness>-999</Wildness>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>WorkSpeedGlobal999</defName>
+		<label>WorkSpeedGlobal999</label>
+		<description>WorkSpeedGlobal999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>170</displayOrderInCategory>
+		<statOffsets>
+			<WorkSpeedGlobal>999</WorkSpeedGlobal>
+		</statOffsets>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsStatOffsets">
+		<defName>WorkSpeedGlobalOffsetMech999</defName>
+		<label>WorkSpeedGlobalOffsetMech999</label>
+		<description>WorkSpeedGlobalOffsetMech999</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>171</displayOrderInCategory>
+		<statOffsets>
+			<WorkSpeedGlobalOffsetMech>999</WorkSpeedGlobalOffsetMech>
+		</statOffsets>
+	</GeneDef>
+</Defs>

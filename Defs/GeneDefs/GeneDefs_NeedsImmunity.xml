@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>RestImmunity</defName>
+		<label>RestImmunity</label>
+		<description>RestImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Rest</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>FoodImmunity</defName>
+		<label>FoodImmunity</label>
+		<description>FoodImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Food</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>JoyImmunity</defName>
+		<label>JoyImmunity</label>
+		<description>JoyImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Joy</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>BeautyImmunity</defName>
+		<label>BeautyImmunity</label>
+		<description>BeautyImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Beauty</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>ComfortImmunity</defName>
+		<label>ComfortImmunity</label>
+		<description>ComfortImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Comfort</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>OutdoorsImmunity</defName>
+		<label>OutdoorsImmunity</label>
+		<description>OutdoorsImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Outdoors</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>IndoorsImmunity</defName>
+		<label>IndoorsImmunity</label>
+		<description>IndoorsImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Indoors</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>DrugDesireImmunity</defName>
+		<label>DrugDesireImmunity</label>
+		<description>DrugDesireImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>DrugDesire</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>RoomSizeImmunity</defName>
+		<label>RoomSizeImmunity</label>
+		<description>RoomSizeImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>RoomSize</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>DeathrestImmunity</defName>
+		<label>DeathrestImmunity</label>
+		<description>DeathrestImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Deathrest</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>KillThirstImmunity</defName>
+		<label>KillThirstImmunity</label>
+		<description>KillThirstImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>KillThirst</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>LearningImmunity</defName>
+		<label>LearningImmunity</label>
+		<description>LearningImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Learning</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>PlayImmunity</defName>
+		<label>PlayImmunity</label>
+		<description>PlayImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Play</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsDisablesNeeds">
+		<defName>SuppressionImmunity</defName>
+		<label>SuppressionImmunity</label>
+		<description>SuppressionImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<disablesNeeds>
+			<li>Suppression</li>
+		</disablesNeeds>
+	</GeneDef>
+	
+	<!-- More Needs may be available to do this with, there was an entry i'd done and then commented out for Food need being removed as well, so I don't know what else would work and what wouldn't work -->
+</Defs>

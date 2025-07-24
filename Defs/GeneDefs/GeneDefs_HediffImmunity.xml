@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	"
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>AlzheimersImmunity</defName>
+		<label>AlzheimersImmunity</label>
+		<description>Alzheimers</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>1</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Alzheimers</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Alzheimers</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>AsthmaImmunity</defName>
+		<label>AsthmaImmunity</label>
+		<description>Asthma</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Asthma</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Asthma</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>BadBackImmunity</defName>
+		<label>BadBackImmunity</label>
+		<description>BadBack</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>3</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>BadBack</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>BadBack</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>BiteImmunity</defName>
+		<label>BiteImmunity</label>
+		<description>Bite</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>4</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Bite</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Bite</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>BlindnessImmunity</defName>
+		<label>BlindnessImmunity</label>
+		<description>Blindness</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>5</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Blindness</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Blindness</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>BloodLossImmunity</defName>
+		<label>BloodLossImmunity</label>
+		<description>BloodLoss</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>6</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>BloodLoss</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>BloodLoss</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>BloodRotImmunity</defName>
+		<label>BloodRotImmunity</label>
+		<description>BloodRot</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>7</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>BloodRot</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>BloodRot</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>BruiseImmunity</defName>
+		<label>BruiseImmunity</label>
+		<description>Bruise</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>8</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Bruise</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Bruise</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>BurnImmunity</defName>
+		<label>BurnImmunity</label>
+		<description>Burn</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>9</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Burn</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Burn</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>CarcinomaImmunity</defName>
+		<label>CarcinomaImmunity</label>
+		<description>Carcinoma</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>10</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Carcinoma</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Carcinoma</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>CataractImmunity</defName>
+		<label>CataractImmunity</label>
+		<description>Cataract</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>11</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Cataract</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Cataract</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>ChemicalBurnImmunity</defName>
+		<label>ChemicalBurnImmunity</label>
+		<description>ChemicalBurn</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>12</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>ChemicalBurn</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>ChemicalBurn</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>ChemicalDamageModerateImmunity</defName>
+		<label>ChemicalDamageModerateImmunity</label>
+		<description>ChemicalDamageModerate</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>13</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>ChemicalDamageModerate</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>ChemicalDamageModerate</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>ChemicalDamageSevereImmunity</defName>
+		<label>ChemicalDamageSevereImmunity</label>
+		<description>ChemicalDamageSevere</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>14</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>ChemicalDamageSevere</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>ChemicalDamageSevere</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>CirrhosisImmunity</defName>
+		<label>CirrhosisImmunity</label>
+		<description>Cirrhosis</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>15</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Cirrhosis</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Cirrhosis</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>CrackImmunity</defName>
+		<label>CrackImmunity</label>
+		<description>Crack</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>16</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Crack</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Crack</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>CrushImmunity</defName>
+		<label>CrushImmunity</label>
+		<description>Crush</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>17</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Crush</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Crush</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>CutImmunity</defName>
+		<label>CutImmunity</label>
+		<description>Cut</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>18</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Cut</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Cut</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>DementiaImmunity</defName>
+		<label>DementiaImmunity</label>
+		<description>Dementia</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>19</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Dementia</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Dementia</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>DirtInEyesImmunity</defName>
+		<label>DirtInEyesImmunity</label>
+		<description>DirtInEyes</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>20</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>DirtInEyes</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>DirtInEyes</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>ExecutionCutImmunity</defName>
+		<label>ExecutionCutImmunity</label>
+		<description>ExecutionCut</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>21</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>ExecutionCut</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>ExecutionCut</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>FibrousMechanitesImmunity</defName>
+		<label>FibrousMechanitesImmunity</label>
+		<description>FibrousMechanites</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>22</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>FibrousMechanites</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>FibrousMechanites</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>FluImmunity</defName>
+		<label>FluImmunity</label>
+		<description>Flu</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>23</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Flu</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Flu</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>FrailImmunity</defName>
+		<label>FrailImmunity</label>
+		<description>Frail</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>24</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Frail</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Frail</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>FrostbiteImmunity</defName>
+		<label>FrostbiteImmunity</label>
+		<description>Frostbite</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>25</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Frostbite</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Frostbite</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>GravelInEyesImmunity</defName>
+		<label>GravelInEyesImmunity</label>
+		<description>GravelInEyes</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>26</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>GravelInEyes</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>GravelInEyes</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>GunshotImmunity</defName>
+		<label>GunshotImmunity</label>
+		<description>Gunshot</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>27</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Gunshot</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Gunshot</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>GutWormsImmunity</defName>
+		<label>GutWormsImmunity</label>
+		<description>GutWorms</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>28</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>GutWorms</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>GutWorms</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>HearingLossImmunity</defName>
+		<label>HearingLossImmunity</label>
+		<description>HearingLoss</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>29</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>HearingLoss</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>HearingLoss</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>HeartArteryBlockageImmunity</defName>
+		<label>HeartArteryBlockageImmunity</label>
+		<description>HeartArteryBlockage</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>30</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>HeartArteryBlockage</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>HeartArteryBlockage</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>HeartAttackImmunity</defName>
+		<label>HeartAttackImmunity</label>
+		<description>HeartAttack</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>31</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>HeartAttack</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>HeartAttack</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>HypothermiaImmunity</defName>
+		<label>HypothermiaImmunity</label>
+		<description>Hypothermia</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>32</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Hypothermia</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Hypothermia</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>InfantIllnessImmunity</defName>
+		<label>InfantIllnessImmunity</label>
+		<description>InfantIllness</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>33</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>InfantIllness</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>InfantIllness</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>LungRotImmunity</defName>
+		<label>LungRotImmunity</label>
+		<description>LungRot</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>34</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>LungRot</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>LungRot</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>MalariaImmunity</defName>
+		<label>MalariaImmunity</label>
+		<description>Malaria</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>35</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Malaria</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Malaria</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>MiscImmunity</defName>
+		<label>MiscImmunity</label>
+		<description>Misc</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>36</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Misc</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Misc</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>MissingBodyPartImmunity</defName>
+		<label>MissingBodyPartImmunity</label>
+		<description>MissingBodyPart</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>37</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>MissingBodyPart</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>MissingBodyPart</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>MudInEyesImmunity</defName>
+		<label>MudInEyesImmunity</label>
+		<description>MudInEyes</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>38</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>MudInEyes</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>MudInEyes</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>MuscleParasitesImmunity</defName>
+		<label>MuscleParasitesImmunity</label>
+		<description>MuscleParasites</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>39</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>MuscleParasites</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>MuscleParasites</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>PlagueImmunity</defName>
+		<label>PlagueImmunity</label>
+		<description>Plague</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>40</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Plague</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Plague</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>ResurrectionPsychosisImmunity</defName>
+		<label>ResurrectionPsychosisImmunity</label>
+		<description>ResurrectionPsychosis</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>41</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>ResurrectionPsychosis</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>ResurrectionPsychosis</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>SandInEyesImmunity</defName>
+		<label>SandInEyesImmunity</label>
+		<description>SandInEyes</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>42</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>SandInEyes</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>SandInEyes</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>ScariaImmunity</defName>
+		<label>ScariaImmunity</label>
+		<description>Scaria</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>43</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Scaria</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Scaria</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>ScratchImmunity</defName>
+		<label>ScratchImmunity</label>
+		<description>Scratch</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>44</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Scratch</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Scratch</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>SensoryMechanitesImmunity</defName>
+		<label>SensoryMechanitesImmunity</label>
+		<description>SensoryMechanites</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>45</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>SensoryMechanites</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>SensoryMechanites</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>ShreddedImmunity</defName>
+		<label>ShreddedImmunity</label>
+		<description>Shredded</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>46</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Shredded</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Shredded</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>SleepingSicknessImmunity</defName>
+		<label>SleepingSicknessImmunity</label>
+		<description>SleepingSickness</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>47</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>SleepingSickness</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>SleepingSickness</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>StabImmunity</defName>
+		<label>StabImmunity</label>
+		<description>Stab</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>48</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Stab</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Stab</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>SterilizedImmunity</defName>
+		<label>SterilizedImmunity</label>
+		<description>Sterilized</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>49</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>Sterilized</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>Sterilized</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>SurgicalCutImmunity</defName>
+		<label>SurgicalCutImmunity</label>
+		<description>SurgicalCut</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>50</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>SurgicalCut</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>SurgicalCut</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>TraumaSavantImmunity</defName>
+		<label>TraumaSavantImmunity</label>
+		<description>TraumaSavant</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>51</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>TraumaSavant</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>TraumaSavant</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>WaterInEyesImmunity</defName>
+		<label>WaterInEyesImmunity</label>
+		<description>WaterInEyes</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>52</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>WaterInEyes</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>WaterInEyes</li>
+		</makeImmuneTo>                
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsHediffGiversCannotGive">
+		<defName>WoundInfectionImmunity</defName>
+		<label>WoundInfectionImmunity</label>
+		<description>WoundInfection</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<displayOrderInCategory>53</displayOrderInCategory>
+		<hediffGiversCannotGive>
+			<li>WoundInfection</li>
+		</hediffGiversCannotGive>
+		<makeImmuneTo>
+			<li>WoundInfection</li>
+		</makeImmuneTo>                
+	</GeneDef>
+</Defs>

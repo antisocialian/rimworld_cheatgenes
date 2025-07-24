@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!--	
+	This was a leftover from 'tearing' apart the presets.
+	All of the items in this file were already in the GeneDefs_HediffImmunity.xml file(or should be).
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>BloodRotImmunity</defName>
+		<label>BloodRotImmunity</label>
+		<description>BloodRotImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>BloodRot</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>FibrousMechanitesImmunity</defName>
+		<label>FibrousMechanitesImmunity</label>
+		<description>FibrousMechanitesImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>FibrousMechanites</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>FluImmunity</defName>
+		<label>FluImmunity</label>
+		<description>FluImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>Flu</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>GutWormsImmunity</defName>
+		<label>GutWormsImmunity</label>
+		<description>GutWormsImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>GutWorms</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>InfantIllnessImmunity</defName>
+		<label>InfantIllnessImmunity</label>
+		<description>InfantIllnessImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>InfantIllness</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>LungRotImmunity</defName>
+		<label>LungRotImmunity</label>
+		<description>LungRotImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>LungRot</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>MalariaImmunity</defName>
+		<label>MalariaImmunity</label>
+		<description>MalariaImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>Malaria</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>MuscleParasitesImmunity</defName>
+		<label>MuscleParasitesImmunity</label>
+		<description>MuscleParasitesImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>MuscleParasites</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>PlagueImmunity</defName>
+		<label>PlagueImmunity</label>
+		<description>PlagueImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>Plague</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>SleepingSicknessImmunity</defName>
+		<label>SleepingSicknessImmunity</label>
+		<description>SleepingSicknessImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>SleepingSickness</li>
+		</makeImmuneTo>
+	</GeneDef>
+	
+	<GeneDef ParentName="CheatsMakeImmuneTo">
+		<defName>WoundInfectionImmunity</defName>
+		<label>WoundInfectionImmunity</label>
+		<description>WoundInfectionImmunity</description>
+		<iconPath>Genes/Icons/cheat</iconPath>
+		<makeImmuneTo>
+			<li>WoundInfection</li>
+		</makeImmuneTo>
+	</GeneDef>
+	-->
+</Defs>

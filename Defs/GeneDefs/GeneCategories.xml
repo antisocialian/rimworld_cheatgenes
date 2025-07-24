@@ -3,9 +3,45 @@
 
 
   <GeneCategoryDef>
-    <defName>Cheats</defName>
-    <label>Cheat Traits</label>
+    <defName>Cheats-Misc</defName>
+    <label>Misc Cheat Traits</label>
     <displayPriorityInXenotype>636</displayPriorityInXenotype>
+  </GeneCategoryDef>
+
+  <GeneCategoryDef>
+    <defName>Cheats-Presets</defName>
+    <label>Cheats-Presets</label>
+    <displayPriorityInXenotype>637</displayPriorityInXenotype>
+  </GeneCategoryDef>
+
+  <GeneCategoryDef>
+    <defName>Cheats-statOffsets</defName>
+    <label>Cheat-statOffsets</label>
+    <displayPriorityInXenotype>638</displayPriorityInXenotype>
+  </GeneCategoryDef>
+
+  <GeneCategoryDef>
+    <defName>Cheats-disablesNeeds</defName>
+    <label>Cheat-Disable Needs</label>
+    <displayPriorityInXenotype>639</displayPriorityInXenotype>
+  </GeneCategoryDef>
+
+  <GeneCategoryDef>
+    <defName>Cheats-MakeImmuneTo</defName>
+    <label>Cheat-Sickness Immunities</label>
+    <displayPriorityInXenotype>640</displayPriorityInXenotype>
+  </GeneCategoryDef>
+
+  <GeneCategoryDef>
+    <defName>Cheats-hediffGiversCannotGive</defName>
+    <label>Cheat-Hediff Immunities</label>
+    <displayPriorityInXenotype>641</displayPriorityInXenotype>
+  </GeneCategoryDef>
+
+  <GeneCategoryDef>
+    <defName>Cheats-statFactors</defName>
+    <label>Cheat-statFactors</label>
+    <displayPriorityInXenotype>642</displayPriorityInXenotype>
   </GeneCategoryDef>
 
 </Defs>
